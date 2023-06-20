@@ -7,4 +7,4 @@ Allows you to specify your name and the person you are writting to
 You can delete endorsements on a click
 Mobile friendly
 
-you can access the demo here:
+you can access the demo here: https://regal-sawine-0a05f4.netlify.app
