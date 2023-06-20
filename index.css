@@ -53,12 +53,13 @@ input {
   display: flex;
   flex-direction: row;
   margin: auto;
-  justify-content: space-between;
+  gap: 20%;
   align-items: center;
 }
 
 #input-from,
 #input-to {
+  width: 40%;
   height: 50px;
   margin-bottom: 0;
 }
