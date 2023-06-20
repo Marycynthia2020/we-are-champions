@@ -49,7 +49,7 @@ input {
 }
 
 .input-div {
-  /* width: 70%; */
+  width: 70%;
   display: flex;
   flex-direction: row;
   margin: auto;
@@ -59,6 +59,7 @@ input {
 
 #input-from,
 #input-to {
+  flex: 1;
   height: 50px;
   margin-bottom: 0;
 }
